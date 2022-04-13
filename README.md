@@ -8,7 +8,7 @@
 ## 📝 Sobre
 
 <p>
-  Desafio Explorer - Desafio 01. Arrumar o código e deixar igual ao design no [figma](https://www.figma.com/file/8rcfMSyWvCz189VLOSGhfp/Explorer---Projeto-01-(Copy)?node-id=1%3A2)
+  Desafio Explorer - Desafio 01. Arrumar o código e deixar igual ao design no <a href="https://www.figma.com/file/8rcfMSyWvCz189VLOSGhfp/Explorer---Projeto-01-(Copy)?node-id=1%3A2">Figma</a>
 </p>
 
 ---
